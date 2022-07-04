@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-06T04:03:58Z" name="Default suite" finished-at="2022-05-06T04:04:11Z" duration-ms="13154">
+    <groups>
+    </groups>
+    <test started-at="2022-05-06T04:03:58Z" name="Default test" finished-at="2022-05-06T04:04:11Z" duration-ms="13154">
+      <class name="TestCases.Launchgurusite$LaunchGurusite">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:03:58Z" name="setup" finished-at="2022-05-06T04:04:01Z" duration-ms="3555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LaunchURL()[pri:1, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:01Z" name="LaunchURL" finished-at="2022-05-06T04:04:04Z" duration-ms="3126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method signature="verifylable()[pri:2, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:04Z" name="verifylable" finished-at="2022-05-06T04:04:05Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylable -->
+        <test-method signature="verifyuseridlable()[pri:3, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:05Z" name="verifyuseridlable" finished-at="2022-05-06T04:04:05Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyuseridlable -->
+        <test-method signature="verifypasswordlabel()[pri:4, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:05Z" name="verifypasswordlabel" finished-at="2022-05-06T04:04:05Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypasswordlabel -->
+        <test-method signature="LogintoGurusite()[pri:5, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:05Z" name="LogintoGurusite" finished-at="2022-05-06T04:04:11Z" duration-ms="6151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogintoGurusite -->
+        <test-method is-config="true" signature="closebrowsersession()[pri:0, instance:TestCases.Launchgurusite$LaunchGurusite@74d1dc36]" started-at="2022-05-06T04:04:11Z" name="closebrowsersession" finished-at="2022-05-06T04:04:11Z" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowsersession -->
+      </class> <!-- TestCases.Launchgurusite$LaunchGurusite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
